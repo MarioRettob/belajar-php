@@ -1,11 +1,11 @@
 <?php
 echo "Hello World <br>";
-$nama = "Faldy";
+$nama = "Mario";
 $umur = 20;
 
 echo "Nama Saya <strong>$nama</strong>, Saya berumur $umur tahun. <br>";
 
-$namaAdik = "Slim";
+$namaAdik = "Ungke";
 $umurAdik = 15;
 
 echo "Nama adik saya <strong>$namaAdik</strong>, Adik saya berusia $umurAdik tahun.<br>";
